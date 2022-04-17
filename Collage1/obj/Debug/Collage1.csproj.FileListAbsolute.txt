@@ -1,0 +1,10 @@
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\obj\Debug\Collage1.csprojAssemblyReference.cache
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\obj\Debug\Collage1.Form1.resources
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\obj\Debug\Collage1.Properties.Resources.resources
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\obj\Debug\Collage1.csproj.GenerateResource.cache
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\obj\Debug\Collage1.csproj.CoreCompileInputs.cache
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\bin\Debug\Collage1.exe.config
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\bin\Debug\Collage1.exe
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\bin\Debug\Collage1.pdb
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\obj\Debug\Collage1.exe
+C:\Users\Hayırdır Birader\source\repos\Collage1\Collage1\obj\Debug\Collage1.pdb
